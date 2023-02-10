@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **V18**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Express JS, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bvcr93](https://github.com/bvcr93)
 
