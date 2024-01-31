@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **PetCare app**
 
-- 🌱 I’m currently learning **Express JS, MongoDB**
+- 🌱 I’m currently learning **Python, Flask, MySQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bvcr93](https://github.com/bvcr93)
 
