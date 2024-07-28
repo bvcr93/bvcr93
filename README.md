@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in **Python, React, SQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/bvcr93](https://github.com/bvcr93)
+- 👨‍💻 All of my projects are available at [https://portfolio-next-brown-five.vercel.app/)
 
 - 📫 How to reach me **darelbavcar1@gmail.com**
 
